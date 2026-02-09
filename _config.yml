@@ -1,0 +1,17 @@
+title: "Corporate AI Responsibility Evaluation"
+description: "A Comprehensive Literature Review on Methods to Evaluate Corporate AI Responsibility"
+theme: jekyll-theme-cayman
+show_downloads: true
+google_analytics:
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - index.md
+  - README.md
+
+# GitHub metadata
+github:
+  repository_url: https://github.com/johnplake/ai-responsibility-lit-review
