@@ -124,7 +124,7 @@ The **Evident AI Index** is the "global standard for measuring how banks are ado
 | Leadership | Variable | Executive commitment, strategy clarity |
 | Transparency | Variable | Disclosure quality, governance communication |
 
-**Methodology**: "Outside-in" assessment using publicly available data and third-party sources. Developed with input from 50+ banking, technology, and benchmarking experts. Evaluates 90+ individual indicators.
+**Methodology**: "Outside-in" assessment using publicly available data and third-party sources. Developed with input from 50+ banking, technology, and benchmarking experts. Evaluates 70+ indicators across four pillars.
 
 **Key Finding**: JPMorganChase has consistently ranked as the world's most AI-advanced bank, with a 200-person AI research group including dedicated ethics team [4].
 
